@@ -29,6 +29,7 @@ O curso abrange todas as tecnologias essenciais para o desenvolvimento web, comb
 - Desenvolvimento de APIs REST com Node.js e Python
 - Integração com bancos de dados relacionais
 - Práticas modernas de versionamento e deploy
+- Inglês técnico
 
 ## 💼 Soft Skills Desenvolvidas
 - Gestão de Tempo
